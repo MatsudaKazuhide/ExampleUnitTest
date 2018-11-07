@@ -14,6 +14,7 @@ public class Enemy {
     int attack;
     boolean dead;
 
+
     /**
      * コンストラクタ。名前、最大HP、攻撃力を指定する。
      * @param name モンスター名

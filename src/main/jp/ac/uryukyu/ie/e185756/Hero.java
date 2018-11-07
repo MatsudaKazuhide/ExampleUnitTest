@@ -38,6 +38,7 @@ public class Hero {
 
     public String getName(){
         return name;
+
     }
 
     /**
